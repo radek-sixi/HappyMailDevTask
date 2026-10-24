@@ -12,7 +12,7 @@ using System.Windows;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("HappyMail")]
-[assembly: AssemblyCopyright("Copyright © Radoslaw Brus 2019")]
+[assembly: AssemblyCopyright("Copyright © Radoslaw B. 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
